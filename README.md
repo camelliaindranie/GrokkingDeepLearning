@@ -1,12 +1,5 @@
 # Grokking Deep Learning
 
-Code reproduction and theoretical deep-dive of **Chapters 1–10** of *Grokking Deep Learning* (Andrew W. Trask, Manning).
-Every chapter has one Jupyter notebook that contains **(1) a chapter summary, (2) an explanation of every theoretical concept, (3) the reproduced code** (pure Python + NumPy, built from scratch) with outputs and figures, and **(4) key takeaways**.
-
-> Task: *Tugas 2 — Enrichment for Deep Learning Classes (Individual)*. Chapters 1–6 → due 10 Oct 2026; Chapters 7–10 → due 17 Oct 2026.
-
----
-
 ## Repository structure
 
 ```
